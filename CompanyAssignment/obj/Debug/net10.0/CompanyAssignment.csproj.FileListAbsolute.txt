@@ -1,0 +1,14 @@
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\bin\Debug\net10.0\CompanyAssignment.exe
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\bin\Debug\net10.0\CompanyAssignment.deps.json
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\bin\Debug\net10.0\CompanyAssignment.runtimeconfig.json
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\bin\Debug\net10.0\CompanyAssignment.dll
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\bin\Debug\net10.0\CompanyAssignment.pdb
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\CompanyAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\CompanyAssignment.AssemblyInfoInputs.cache
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\CompanyAssignment.AssemblyInfo.cs
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\CompanyAssignment.csproj.CoreCompileInputs.cache
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\CompanyAssignment.dll
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\refint\CompanyAssignment.dll
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\CompanyAssignment.pdb
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\CompanyAssignment.genruntimeconfig.cache
+C:\Users\milad\source\repos\CompanyAssignment\CompanyAssignment\obj\Debug\net10.0\ref\CompanyAssignment.dll
