@@ -39,4 +39,7 @@ If simulation fails:
 [-1, -1]
 
 ## Running the Application
+Start this application by pressing F5.
 
+To start the test project, click on test up top and run all tests.
+If all passes you should get "Outcomes 5 Passed"
